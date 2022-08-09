@@ -13,12 +13,10 @@
 ## Requirements
 - must use Rails 5.2.x
 - must use PostgreSQL
-- all code must be tested via feature tests and model tests, respectively
-- must use GitHub branching, team code reviews via GitHub comments, and github projects to track progress on user stories
-- must include a thorough README to describe the project
-- must deploy completed code to Heroku
-- Continuous Integration / Continuous Deployment is not allowed
-- Any gems added to the project must be approved by an instructor
+- all code tested via feature tests and model tests, respectively
+- uses GitHub branching, team code reviews via GitHub comments, and github projects to track progress on user stories
+- deployed to Heroku
+- Continuous Integration / Continuous Deployment is not in place
 
 ## Setup
 
